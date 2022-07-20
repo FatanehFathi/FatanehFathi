@@ -3,7 +3,7 @@
 /*********** Global Styles********/
 
 body, html {
-		background-color: #E3E3E3;
+		background-color: #ffef60;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Experience ***/
 #experience {
-	background-color: #4c6d86;
+	background-color: #5dad11;
 	padding: 6em 4em 5.6em;
 }
 
@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 /*** work ***/
 #work {
 	padding: 6em 4em 3em;
-	background-color: #fff;
+	background-color: rgb(248, 253, 201);
 }
 
 #work h2 {
